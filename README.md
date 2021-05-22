@@ -1,5 +1,6 @@
 ![特别周（Special Week）](https://user-images.githubusercontent.com/53565118/119146699-787bf500-ba7d-11eb-9964-07184b58e8ca.png)
-![彩虹](https://user-images.githubusercontent.com/53565118/119157151-77e85c00-ba87-11eb-8333-793c26d14f38.png)
+<!-- ![彩虹](https://user-images.githubusercontent.com/53565118/119157151-77e85c00-ba87-11eb-8333-793c26d14f38.png) -->
+![深刻悼念袁隆平院士](https://user-images.githubusercontent.com/53565118/119227682-b80c1500-bb41-11eb-942c-14618ecb71f0.png)
 
 <img align="right" width="160" src="https://user-images.githubusercontent.com/53565118/119147238-f9d38780-ba7d-11eb-81cc-e9a36e70081b.png" alt="特别周（Special Week）">
 
