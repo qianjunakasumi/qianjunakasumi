@@ -1,7 +1,5 @@
 ![特别周（Special Week）](https://user-images.githubusercontent.com/53565118/119146699-787bf500-ba7d-11eb-9964-07184b58e8ca.png)
-<!-- ![彩虹](https://user-images.githubusercontent.com/53565118/119157151-77e85c00-ba87-11eb-8333-793c26d14f38.png) -->
-<!-- ![深刻悼念袁隆平院士](https://user-images.githubusercontent.com/53565118/119227682-b80c1500-bb41-11eb-942c-14618ecb71f0.png) -->
-![沉痛悼念袁隆平院士](https://user-images.githubusercontent.com/53565118/119340005-7b1c5b80-bcc4-11eb-8548-21d6d793e171.png)
+![彩虹](https://user-images.githubusercontent.com/53565118/119157151-77e85c00-ba87-11eb-8333-793c26d14f38.png)
 
 <img align="right" width="160" src="https://user-images.githubusercontent.com/53565118/119147238-f9d38780-ba7d-11eb-81cc-e9a36e70081b.png" alt="特别周（Special Week）">
 
@@ -29,7 +27,7 @@ Lua、PowerShell
 
 #### 了解更多？[-> 前往个人网站（没开业）](https://qianjunakasumi.ren/)
 
-<img align="left" width="190" src="https://user-images.githubusercontent.com/53565118/119166907-c864b700-ba91-11eb-812f-0f9fb93d2b78.png" alt="特别周（Special Week）">
+<img align="left" width="160" src="https://user-images.githubusercontent.com/53565118/119166907-c864b700-ba91-11eb-812f-0f9fb93d2b78.png" alt="特别周（Special Week）">
 
 ### 状态
 
