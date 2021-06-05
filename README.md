@@ -1,9 +1,8 @@
-![特别周（Special Week）](https://user-images.githubusercontent.com/53565118/119146699-787bf500-ba7d-11eb-9964-07184b58e8ca.png)
-![彩虹](https://user-images.githubusercontent.com/53565118/119157151-77e85c00-ba87-11eb-8333-793c26d14f38.png)
+![千橘 雫霞（qianjunakasumi）](https://user-images.githubusercontent.com/53565118/120892980-62f0f880-c643-11eb-830d-a087b8a72d3e.png)
 
 <img align="right" width="160" src="https://user-images.githubusercontent.com/53565118/119147238-f9d38780-ba7d-11eb-81cc-e9a36e70081b.png" alt="特别周（Special Week）">
 
-### 千橘：Hello！ 你好！ こにちは！
+### 千：Hello！ 你好！ こにちは！
 
 ---
 
