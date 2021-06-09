@@ -1,8 +1,6 @@
-![千橘 雫霞（qianjunakasumi）](https://user-images.githubusercontent.com/53565118/120892980-62f0f880-c643-11eb-830d-a087b8a72d3e.png)
-
 <img align="right" width="160" src="https://user-images.githubusercontent.com/53565118/119147238-f9d38780-ba7d-11eb-81cc-e9a36e70081b.png" alt="特别周（Special Week）">
 
-### 千：Hello！ 你好！ こにちは！
+### 泥嚎！(〃∀〃)
 
 ---
 
