@@ -32,6 +32,4 @@ Lua、PowerShell
 
 [![qianjunakasumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianjunakasumi&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianjunakasumi&layout=compact&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
 [![qianjunakasumi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@qianjunakasumi&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
