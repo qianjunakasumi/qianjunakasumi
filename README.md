@@ -1,3 +1,5 @@
+> ### 热烈庆祝中国共产党成立 100 周年
+
 <img align="right" width="160" src="https://user-images.githubusercontent.com/53565118/119147238-f9d38780-ba7d-11eb-81cc-e9a36e70081b.png" alt="特别周（Special Week）">
 
 ### 泥嚎！(〃∀〃)
